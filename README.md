@@ -1,0 +1,45 @@
+# Ariana Grande – just like magic
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.64] Wake up in my bed, I just wanna have a good day
+[00:11.45] Thinking in my head then it happens how it should, ayy
+[00:15.21] 12 o' clock I got a team meeting, then a meditation at like 1:30
+[00:18.73] Then I ride to the studio, listening to some shit I wrote
+[00:47.23] 
+[00:23.22] Good karma, my aesthetic (aesthetic)
+[00:25.86] Keep my conscience clear that's why I'm so magnetic
+[00:29.63] Manifest it (yeah), I finessed it (I finessed it)
+[00:33.27] Take my pen and write some love letters to Heaven
+[00:57.77] 
+[00:37.11] Just like magic (baby), just like magic (oh-yeah)
+[00:40.89] Middle finger to my thumb and then I snap it (woo)
+[00:44.75] Just like magic (yeah), I'm attractive (oh-yeah)
+[00:48.48] I get everything I want 'cause I attract it (oh-oh-oh)
+[01:15.48] 
+[00:52.09] It's like looking at my phone but I'm tryna disconnect it
+[00:56.36] Read a fucking book, I be tryna stay connected (yuh)
+[01:00.05] Say it's tricky at the top, gotta keep a slim ego for a thick wallet
+[01:03.74] Losing friends left and right, but I just send them love and light (oh-yeah)
+[01:41.74] 
+[01:08.34] Good karma, my aesthetic (my aesthetic)
+[01:10.84] Keep my conscience clear that's why I'm so magnetic
+[01:14.68] Manifest it (oh), I finessed it (ooh)
+[01:18.34] Take my pen and write some love letters to Heaven
+[01:42.84] 
+[01:22.82] Just like magic, just like magic
+[01:26.87] Middle finger to my thumb and then I snap it, ayy
+[01:30.73] Just like magic, I'm attractive
+[01:34.22] I get everything I want 'cause I attract it
+[01:55.72] 
+[01:38.44] I don't wanna waste your time on some dumb shit
+[01:42.16] Password to your phone, you can miss me with that shit
+[01:46.17] Redesign your brain, we gon' make some new habits
+[01:50.29] Just like magic (just like magic), just like magic (baby)
+[02:18.79] 
+[01:53.28] Just like magic, just like magic (oh)
+[01:56.92] Middle finger to my thumb and then I snap it (yeah)
+[02:00.62] Just like magic (oh-oh), I'm attractive (oh-oh)
+[02:04.49] I get everything I want 'cause I attract it ('cause I attract it, babe)
+```
