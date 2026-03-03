@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "just like magic",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-03T14:15:42.352108Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "just like magic",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_just_like_magic_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "just like magic",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/02_just_like_magic_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just Like Magic",
+      "artist": "Jackson Wang",
+      "has_synced": true,
+      "path": "select/03_Just_Like_Magic_Jackson_Wang.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "just like magic",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/04_just_like_magic_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "just like magic (official audio)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_just_like_magic_(official_audio)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ariana Grande - just like magic (official audio)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/06_Ariana_Grande_-_just_like_magic_(official_audio)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just Like Magic",
+      "artist": "Red Monster",
+      "has_synced": false,
+      "path": "select/07_Just_Like_Magic_Red_Monster.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Just Like Magic",
+      "artist": "Red Monster",
+      "has_synced": true,
+      "path": "select/08_Just_Like_Magic_Red_Monster.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ariana Grande - 04 - just like magic",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/09_Ariana_Grande_-_04_-_just_like_magic_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just Like Magic",
+      "artist": "Lollia",
+      "has_synced": true,
+      "path": "select/10_Just_Like_Magic_Lollia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Just Like Magic",
+      "artist": "JACKSON",
+      "has_synced": true,
+      "path": "select/11_Just_Like_Magic_JACKSON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "just like magic",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_just_like_magic_Ariana_Grande.txt"
+    }
+  ]
+}
